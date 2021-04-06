@@ -12,7 +12,7 @@ public class RocketMovement : MonoBehaviour
 	Rigidbody _rigidbody;
 	AudioSource _audioSource;
 
-	// Start is called before the first frame update
+	// Start is called before the first frame update : Test
 	void Start()
 	{
 		_rigidbody = GetComponent<Rigidbody>();
